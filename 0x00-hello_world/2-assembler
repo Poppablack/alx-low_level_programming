@@ -1,4 +1,2 @@
-le File  2 lines (2 sloc)  26 Bytes
-
 #!/bin/bash
 gcc $CFILE -S
