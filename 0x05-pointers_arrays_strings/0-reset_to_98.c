@@ -4,7 +4,7 @@
  * For Holberton School 2020
  */
 
-#include "mean.h"
+#include "main.h"
 
 /**
  * reset_to_98 - resets value of pointer to 98
